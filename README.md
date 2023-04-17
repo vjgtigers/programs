@@ -1,0 +1,1 @@
+avarage_Duration.rs - code to be added to a program i was working on to take the avarage of times
